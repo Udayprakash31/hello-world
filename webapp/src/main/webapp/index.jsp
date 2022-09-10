@@ -14,7 +14,7 @@
 
     <label for="email"><b>Enter the Email</b></label>
     <input type="text" placeholder="Enter the Email" name="email" id="email" required>
-    <br>
+    
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter the Password" name="psw" id="psw" required>
