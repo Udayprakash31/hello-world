@@ -9,13 +9,13 @@
     <br>
     
 
-    <label for="mobile"><b>Enter the mobile numbers</b></label>
+    <label for="mobile"><b>Enter the mobile no's</b></label>
     <input type="text" placeholder="Enter the mobile number" name="mobile" id="mobile" required>
     <br>
 
     
 
-    <label for="email"><b>Enter the Email ids</b></label>
+    <label for="email"><b>Enter the Email</b></label>
     <input type="text" placeholder="Enter the Email" name="email" id="email" required>
     
 
