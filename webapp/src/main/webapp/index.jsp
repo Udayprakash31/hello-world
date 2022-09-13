@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter the Name</b></label>
-    <input type="text" placeholder="Enter the Full Name of the candidate" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter the Full Name" name="Name" id="Name" required>
     <br>
     
 
@@ -19,6 +19,7 @@
     
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter the Password" name="psw" id="psw" required>
+    <br>
     <br>
 
     <label for="psw-repeat"><b>Repeat the Password</b></label>
